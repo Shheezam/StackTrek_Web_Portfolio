@@ -1,0 +1,22 @@
+.navi ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#bahay{
+    height: 820px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+#mepic img{
+width: 300px;
+height: 175px;
+}
+#intro h3{
+font-size: 1.5rem;
+}
+.galproj img{
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
